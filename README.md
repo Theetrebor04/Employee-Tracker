@@ -23,6 +23,7 @@ The following necessary dependencies must be installed to run the application pr
 # Usage
 
 ​This application is used for Simple program to track employees.
+Example Video: https://drive.google.com/file/d/1rayhhyNe4AKISWiNwEggsh0Ev6QDnm4V/view
 
 # License
 This project is license under the undefined license.
